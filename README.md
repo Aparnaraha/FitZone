@@ -1,9 +1,3 @@
-Absolutely! Here's a **detailed `README.md`** file for your **FitZone** project, incorporating all the features you mentioned:
-
----
-
-### 📄 `README.md` (Detailed for GitHub)
-
 
 # 🏋️‍♀️ FitZone
 
